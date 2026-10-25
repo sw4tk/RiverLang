@@ -58,5 +58,4 @@ def lex(snippet : str):
         i += 1
     return tokens
 
-snippet = "{x==10+59}"
-print(lex(snippet))
+
